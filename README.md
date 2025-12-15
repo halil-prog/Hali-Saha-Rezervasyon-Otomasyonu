@@ -50,7 +50,7 @@ Bu proje MVC mimarisine uygun olarak şu teknolojilerle geliştirilmiştir:
 
 ## 📄 Proje Dokümanları
 Projenin teknik detaylarını içeren sunum ve poster dosyaları:
-* [Proje Sunumu (PPTX)](sunum.pptx)
+* [Proje Sunumu (PPTX)]([sunum.pptx](https://github.com/halil-prog/Hali-Saha-Rezervasyon-Otomasyonu/blob/main/HALI%20SAHA%20REZEERVASYON%20POSTERI%CC%87.pdf))
 * [Proje Posteri (PDF)](poster.pdf)
 
 ---
